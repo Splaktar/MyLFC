@@ -53,7 +53,7 @@
     "@angular-devkit/schematics": "8.3.19",
     "@angular/pwa": "0.803.19",
     "@schematics/angular": "8.3.19",
-    "typescript": "3.5.3",
+    "typescript": "3.7.2",
     "ts-node": "8.5.2",
     "tslint": "5.20.1",
     "codelyzer": "5.2.0",
